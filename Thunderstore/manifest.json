@@ -1,0 +1,9 @@
+{
+  "name": "Unstuck",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/Vd89cSgxNW",
+  "description": "Press a key to get unstuck, which defaults to only when underwater. Change all values in the config file.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
